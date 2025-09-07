@@ -36,4 +36,6 @@ The dashboard is built in **Excel** using Pivot Tables, Charts, and Slicers for 
   - Geographic distribution (countries & regions).  
   - Customer segments & order statuses.  
 
-  
+  ## 📷 Dashboard Screenshots
+  ![Sales Dashboard](images)
+
