@@ -37,5 +37,5 @@ The dashboard is built in **Excel** using Pivot Tables, Charts, and Slicers for 
   - Customer segments & order statuses.  
 
   ## 📷 Dashboard Screenshots
-  ![Sales Dashboard](images)
+  ![Sales Dashboard](images/2025-09-07.png)
 
